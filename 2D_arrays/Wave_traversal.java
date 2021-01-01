@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Wave_traversal_1{
+public class Wave_traversal{
 
 public static void main(String[] args) throws Exception {
     Scanner sc = new Scanner(System.in);
